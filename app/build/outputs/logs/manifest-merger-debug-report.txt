@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7da231ea2b9b16edf0458ea21efa3c35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8c30b2c67ae2de4cdabfd7970efc1633/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/1186c0f5fa12daf1060feb752a5e6d86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/2fe568e05dcacc4f1e6afbb535f36ed8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0b567b91678e63d7525d47751c163060/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f483fb41de52896e20f1e7c9e614b7f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b0c73ece303c5a17993d30ceffbee331/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fb4a52cbfefacd8369d71f3f2c948869/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6bfc0862933ae3bddbcfa69f34cda688/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/212ce064bcafbe49a66662dcc08da72c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2f75c3d52aba66852403c71a6b049569/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e7726302338494dc4d198d423f3fc5b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2b5d735438f0b0e2042cd696fe6d9899/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8667976565e18d5d4b06e5454cb40c1d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:4:1-79
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:4:18-60
+application
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8c30b2c67ae2de4cdabfd7970efc1633/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8c30b2c67ae2de4cdabfd7970efc1633/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/2fe568e05dcacc4f1e6afbb535f36ed8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/2fe568e05dcacc4f1e6afbb535f36ed8/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:7:9-36
+	android:allowBackup
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.ahk.post.MainActivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.ahk.post.newpostactivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:19:19-50
+activity#com.ahk.post.viewpostsactivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:20:9-64
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml:20:19-52
+uses-sdk
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7da231ea2b9b16edf0458ea21efa3c35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7da231ea2b9b16edf0458ea21efa3c35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8c30b2c67ae2de4cdabfd7970efc1633/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8c30b2c67ae2de4cdabfd7970efc1633/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/1186c0f5fa12daf1060feb752a5e6d86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/1186c0f5fa12daf1060feb752a5e6d86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/2fe568e05dcacc4f1e6afbb535f36ed8/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/2fe568e05dcacc4f1e6afbb535f36ed8/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0b567b91678e63d7525d47751c163060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0b567b91678e63d7525d47751c163060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f483fb41de52896e20f1e7c9e614b7f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f483fb41de52896e20f1e7c9e614b7f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b0c73ece303c5a17993d30ceffbee331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b0c73ece303c5a17993d30ceffbee331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fb4a52cbfefacd8369d71f3f2c948869/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fb4a52cbfefacd8369d71f3f2c948869/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6bfc0862933ae3bddbcfa69f34cda688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6bfc0862933ae3bddbcfa69f34cda688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/212ce064bcafbe49a66662dcc08da72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/212ce064bcafbe49a66662dcc08da72c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2f75c3d52aba66852403c71a6b049569/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2f75c3d52aba66852403c71a6b049569/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e7726302338494dc4d198d423f3fc5b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e7726302338494dc4d198d423f3fc5b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2b5d735438f0b0e2042cd696fe6d9899/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2b5d735438f0b0e2042cd696fe6d9899/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8667976565e18d5d4b06e5454cb40c1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8667976565e18d5d4b06e5454cb40c1d/AndroidManifest.xml:20:5-44
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/post/app/src/main/AndroidManifest.xml
